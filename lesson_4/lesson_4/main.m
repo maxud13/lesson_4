@@ -8,10 +8,43 @@
 
 #import <Foundation/Foundation.h>
 
-int main(int argc, const char * argv[]) {
-    @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+
+        @interface MyFriend : NSObject
+{
+    NSString *_name;
+    NSInteger _age;
+    
+}
+- (void)setName : (NSString*)name;
+- (NSString*)name;
+
+- (void)trollsomeone;
+    
+        @end
+
+@implementation MyFriend
+
+-(void)SETNAME : (NSString*)name
+{
+    _name = name;
+}
+- (NSString*)name
+
+-(void)trollsomeone
+{
+
+}
+MyFriend *friend = [[MyFriend alloc]init]
+
+
+@end
+
+
+MyFriend *friend = [[MyFriend alloc]init];
+
+    friend._name
+
     }
     return 0;
 }
+
