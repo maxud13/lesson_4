@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6A7853CF1F47624E007F75F8"
+               BlueprintIdentifier = "6A7854091F47634F007F75F8"
                BuildableName = "lesson_4_mvc.app"
                BlueprintName = "lesson_4_mvc"
                ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6A7853E31F47624E007F75F8"
+               BlueprintIdentifier = "6A7854221F47634F007F75F8"
                BuildableName = "lesson_4_mvcTests.xctest"
                BlueprintName = "lesson_4_mvcTests"
                ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6A7853EE1F47624E007F75F8"
+               BlueprintIdentifier = "6A78542D1F47634F007F75F8"
                BuildableName = "lesson_4_mvcUITests.xctest"
                BlueprintName = "lesson_4_mvcUITests"
                ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6A7853CF1F47624E007F75F8"
+            BlueprintIdentifier = "6A7854091F47634F007F75F8"
             BuildableName = "lesson_4_mvc.app"
             BlueprintName = "lesson_4_mvc"
             ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6A7853CF1F47624E007F75F8"
+            BlueprintIdentifier = "6A7854091F47634F007F75F8"
             BuildableName = "lesson_4_mvc.app"
             BlueprintName = "lesson_4_mvc"
             ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6A7853CF1F47624E007F75F8"
+            BlueprintIdentifier = "6A7854091F47634F007F75F8"
             BuildableName = "lesson_4_mvc.app"
             BlueprintName = "lesson_4_mvc"
             ReferencedContainer = "container:lesson_4_mvc.xcodeproj">
